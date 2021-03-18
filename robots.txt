@@ -1,3 +1,2 @@
 User-Agent: *
-Disallow: 
-Sitemap: https://nullcell8822.github.io
+Allow: /
