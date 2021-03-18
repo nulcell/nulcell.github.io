@@ -1,0 +1,226 @@
+{
+  "basics": {
+    "name": "Toyin Ayanleye",
+    "label": "Security Enuthiast (Cybersecurity and Embedded)",
+    "picture": "../images/profile/profile1.jpg",
+    "email": "ayanleyetoyin@outlook.com",
+    "phone": "+2349020674624",
+    "website": "https://nullcell8822.github.io",
+    "summary": "Self-motivated student interested in Cybersecurity and Embedded Systems skilled in scripting, web vulnerability assessment, network security, firmware development and embedded application development. Continuosly improving myself on platforms like HackTheBox, TryHackMe, PawnTillDawn and VulnHub",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lagos",
+      "countryCode": "Nigeria",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "NullCell8822",
+        "url": "http://github.com/nullcell8822"
+      },
+      {
+        "network": "linkedin",
+        "username": "Toyin Ayanleye",
+        "url": "http://linkedin.com/in/toyin-ayanleye"
+      },
+      {
+        "network": "twitter",
+        "username": "NullCell8822",
+        "url": "http://twitter.com/NullCell8822"
+      },
+      {
+        "network": "instagram",
+        "username": "Toyin Ayanleye",
+        "url": "http://instagram.com/nullcell8822"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Cybersecurity",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "STM32",
+        "Node MCU"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C",
+        "C++",
+        "Bash",
+        "Powershell",
+        "Yocto"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "Reading Schematics",
+        "Circuit Prototyping",
+        "Referencing HW datasheets"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Debian",
+        "Git/GitHub",
+        "Wireshark",
+        "STM32",
+        "Raspberry Pi",
+        "TI LaunchPad"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Ibadan, Ibadan, Oyo, Nigeria",
+      "area": "Electrical & Electronics Engineering (expected 2022)",
+      "studyType": "B.S.",
+      "startDate": "2017-02",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "International School Olabisi Onabanjo University, Ago-Iwoye, Ogun, Nigeria",
+      "area": "Secondary School",
+      "studyType": "WASSCE",
+      "startDate": "2012-09",
+      "endDate": "2016-07",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Trinity International College, Ofada, Ogun, Nigeria",
+      "area": "Secondary School",
+      "studyType": "WASSCE",
+      "startDate": "2010-09",
+      "endDate": "2012-07",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "Linux Professional Institute Innovation Hub",
+      "position": "Intern/Tutor",
+      "website": "https://lpihub.org",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "",
+      "highlights": [
+        "Aiding in the development of embedded projects for members and their clients",
+        "Teaching Embedded Systems and learning Cyber Security"
+      ]
+    },
+    {
+      "company": "Vinsighte",
+      "position": "Embedded Software Developer",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Development of prototype for reading glasses for the visually impaired",
+      "highlights": [
+        "Design glasses to be used by the visally impared to aid in reading",
+        "Design walking aids"
+      ]
+    },
+    {
+      "company": "Works and Maintenance Department, University of Ibadan",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "Installation and Maintenance of University electrical equipment",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "https://tryhackme.com/p/NullCell",
+      "position": "TryHackMe",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "",
+      "website": "https://www.hackthebox.eu/home/users/profile/462764",
+      "position": "HackTheBox",
+      "startDate": "2020",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "",
+      "website": "https://online.pwntilldawn.com/Achievements/2087",
+      "position": "PwnTillDawn",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE Student Branch, University of Ibadan",
+      "website": "https://edu.ieee.org/ng-ui/home/",
+      "position": "Embedded Development Team Lead",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Lead developer for the Embedded Systems Development Team",
+      "highlights": [
+        "Design firmware for embedded applications",
+        "Design and build small robots"
+      ]
+    },
+    {
+      "organization": "H4x",
+      "website": "",
+      "position": "Senior Team Member",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Senior team member for the H4x ethical hacking group in the University",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hackathon Runner-up",
+      "date": "2019",
+      "awarder": "Campus Labs and US Embassy",
+      "summary": "A disability hackathon to find solutions to help people with various kinds of disabilities"
+    },
+    {
+      "title": "Hult Prize UI",
+      "date": "2019",
+      "awarder": "Hult Prize Foundation UI Branch",
+      "summary": "My team won first place for providing a business that would create jobs and help the visually impared"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
