@@ -6,7 +6,7 @@
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
     "website": "https://nullcell8822.github.io",
-    "summary": "Self-motivated student interested in Cybersecurity and Embedded Systems skilled in scripting, web vulnerability assessment, network security, firmware development and embedded application development. Continuosly improving myself on platforms like HackTheBox, TryHackMe, PawnTillDawn and VulnHub",
+    "summary": "A self-motivated student interested in Cybersecurity and Embedded Systems aspiring to be a Penetration Tester, skilled in scripting, web vulnerability assessment, network security, firmware development and embedded application development. Continuously improving myself on platforms like HackTheBox, TryHackMe, PawnTillDawn and VulnHub. Currently studying for the eJPT Certification Exam.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -80,9 +80,11 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Debian",
+        "Linux",
         "Git/GitHub",
         "Wireshark",
+        "Nessus",
+        "VMware",
         "STM32",
         "Raspberry Pi",
         "TI LaunchPad"
@@ -196,10 +198,10 @@
     {
       "organization": "H4x",
       "website": "",
-      "position": "Senior Team Member",
+      "position": "Founding Member",
       "startDate": "2021",
       "endDate": "Present",
-      "summary": "Senior team member for the H4x ethical hacking group in the University",
+      "summary": "Founding member for the H4x ethical hacking group in the University",
       "highlights": []
     }
   ],

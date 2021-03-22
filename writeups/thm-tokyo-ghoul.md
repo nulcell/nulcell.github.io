@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/writeups/thm/tokyo-ghoul/00.png
+image: images/writeups/thm/tokyo-ghoul/logo.jpeg
 title: Tokyo Ghoul - TryHackMe
 permalink: writeups/tokyo-ghoul
 # All dates must be YYYY-MM-DD format!
@@ -16,7 +16,7 @@ labels:
 summary: Help kaneki escape jason room in this Tokyo Ghoul inspired machine.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/tokyo-ghoul/0.png">
+<img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/tokyo-ghoul/header.png">
 <script src="https://www.tryhackme.com/badge/192700"></script>
 
 ## Enumeration

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/writeups/thm/team/00.png
+image: images/writeups/thm/team/logo.png
 title: Team - TryHackMe
 permalink: writeups/team
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ labels:
 summary: A beginner friendly boot2root machine.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/team/0.png">
+<img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/team/header.png">
 <script src="https://www.tryhackme.com/badge/192700"></script>
 
 ## Enumeration
