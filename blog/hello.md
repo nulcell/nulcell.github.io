@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: images/blog/hello/logo.png
 title: Hello NullCell
 permalink: blog/hello
 # All dates must be YYYY-MM-DD format!
