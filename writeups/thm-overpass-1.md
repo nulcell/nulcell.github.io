@@ -9,7 +9,7 @@ date: 2021-03-22
 labels:
   - TryHackMe
   - boot2root
-  - easy
+  - Easy
 summary: What happens when some broke CompSci students make a password manager?
 ---
 

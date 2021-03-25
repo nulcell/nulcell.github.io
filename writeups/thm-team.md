@@ -9,7 +9,7 @@ date: 2021-03-18
 labels:
   - TryHackMe
   - boot2root
-  - easy
+  - Easy
   - LFI
   - Cronjobs
 summary: A beginner friendly boot2root machine.

@@ -9,7 +9,7 @@ date: 2021-03-22
 labels:
   - TryHackMe
   - boot2root
-  - easy
+  - Easy
   - LFI
   - Web Exploitation
   - Privilege Escalation

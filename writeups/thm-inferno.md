@@ -9,7 +9,7 @@ date: 2021-03-22
 labels:
   - TryHackMe
   - boot2root
-  - medium
+  - Medium
 summary: Real Life machine + CTF. The machine is designed to be real-life (maybe not?) and is perfect for newbies starting out in penetration testing
 ---
 

@@ -9,7 +9,7 @@ date: 2021-03-18
 labels:
   - TryHackMe
   - boot2root
-  - medium
+  - Medium
   - LFI
   - Python Sandbox
   - Enumeration
