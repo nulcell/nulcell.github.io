@@ -18,6 +18,13 @@ summary: A beginner friendly boot2root machine.
 <img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/team/header.png">
 <script src="https://www.tryhackme.com/badge/192700"></script>
 
+```
+MACHINE = Team
+TARGET = VARIABLE
+OS = LINUX
+DIFFICULTY = EASY
+```
+
 ## Enumeration
 
 Starting with rustscan to find all open ports quickly

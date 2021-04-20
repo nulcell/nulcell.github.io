@@ -19,7 +19,6 @@ summary: Real Life machine + CTF. The machine is designed to be real-life (maybe
 ```
 MACHINE = INFERNO
 TARGET = VARIABLE
-TUN0 = 10.9.169.84
 OS = LINUX
 DIFFICULTY = MEDIUM
 ```

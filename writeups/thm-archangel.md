@@ -22,7 +22,6 @@ summary: Boot2root, Web exploitation, Privilege escalation, LFI
 ```
 MACHINE = ARCHANGEL
 TARGET = VARIABLE
-TUN0 = 10.9.169.84
 OS = LINUX
 DIFFICULTY = EASY
 ```

@@ -19,6 +19,13 @@ summary: Help kaneki escape jason room in this Tokyo Ghoul inspired machine.
 <img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/tokyo-ghoul/header.png">
 <script src="https://www.tryhackme.com/badge/192700"></script>
 
+```
+MACHINE = Tokyo Ghoul
+TARGET = VARIABLE
+OS = LINUX
+DIFFICULTY = MEDIUM
+```
+
 ## Enumeration
 
 Starting off with rustscan to quickly scan all ports

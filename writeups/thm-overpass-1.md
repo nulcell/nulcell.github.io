@@ -19,7 +19,6 @@ summary: What happens when some broke CompSci students make a password manager?
 ```
 MACHINE = OVERPASS 1
 TARGET = VARIABLE
-TUN0 = 10.9.169.84
 OS = LINUX
 DIFFICULTY = EASY
 ```
