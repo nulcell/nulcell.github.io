@@ -5,7 +5,7 @@ image: images/writeups/thm/overpass-1/logo.png
 title: Overpass 1 - TryHackMe
 permalink: writeups/overpass-1
 # All dates must be YYYY-MM-DD format!
-date: 2021-03-22
+date: 2021-04-20
 labels:
   - TryHackMe
   - boot2root
