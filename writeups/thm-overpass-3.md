@@ -13,7 +13,7 @@ labels:
 summary: You know them, you love them, your favourite group of broke computer science students have another business venture! Show them that they probably should hire someone for security...
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/overpass-2/header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/writeups/thm/overpass-3/header.png">
 <script src="https://www.tryhackme.com/badge/192700"></script>
 
 ```
