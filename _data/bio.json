@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Toyin Ayanleye",
-    "label": "Security Enuthiast (Cybersecurity and Embedded)",
+    "label": "Cybersecurity Enuthiast",
     "picture": "../images/profile/profile1.jpg",
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
     "website": "https://nullcell8822.github.io",
-    "summary": "A self-motivated student interested in Cybersecurity, skilled in scripting, web vulnerability assessment, network security, firmware development and embedded software development. Continuously improving myself on platforms like HackTheBox, TryHackMe, PawnTillDawn and VulnHub. Currently improving my Web Application Security skills as well as studying for my OSCP Exam.",
+    "summary": "A young professional starting out in the Cybersecurity field working to be a Penetration Tester, skilled in scripting, web application vulnerability assessment, network security, firmware development and embedded application development. Currently working on Bug Bounties and open source web application code review and testing as well as developing an automation script for carrying out reconnaissance, vulnerability discovery and testing that would otherwise be done manually. Continuously learning using platforms such as HackTheBox, TryHackMe, PawnTillDawn and VulnHub. Also preparing for the OSCP Certification Exam.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -40,17 +40,11 @@
   "interests": [
     {
       "name": "Cybersecurity",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Embedded Systems",
-      "keywords": [
-        "Arduino",
-        "Raspberry Pi",
-        "STM32",
-        "Node MCU"
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -58,36 +52,28 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python",
-        "C",
-        "C++",
-        "Bash",
-        "Powershell",
-        "Yocto"
-      ]
-    },
-    {
-      "name": "Hardware",
-      "level": "",
-      "keywords": [
-        "Reading Schematics",
-        "Circuit Prototyping",
-        "Referencing HW datasheets"
+        "Python", "C", "C++", "Bash", "Yocto"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
-        "Linux",
-        "Git/GitHub",
-        "Wireshark",
-        "Nessus",
-        "VMware",
-        "STM32",
-        "Raspberry Pi",
-        "TI LaunchPad"
+        "Linux", "Windows", "GitHub", "Git", "Wireshark", "Nessus", "VMware", "Metasploit", "Burpsuite", "Docker"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Web Application Penetration Testing", "Network Vulnerability Testing", "Password Cracking"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "Reading Schematics", "Circuit Prototyping", "Referencing HW datasheets", "Raspberry Pi", "Arduino", "STM32"
       ]
     }
   ],
@@ -97,7 +83,7 @@
       "area": "Electrical & Electronics Engineering (expected 2022)",
       "studyType": "B.S.",
       "startDate": "2017-02",
-      "endDate": "Present",
+      "endDate": "2022",
       "gpa": "",
       "courses": []
     },
@@ -122,9 +108,20 @@
   ],
   "work": [
     {
+      "company": "M4xH3dr00m",
+      "position": "Team Member",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "M4xH3dr00m is a group of young cybersecurity talents who engage in CTFs, Bug Bounties, Red Teaming and others freelance work.",
+      "highlights": [
+        "CTF", "Bug Bounties"
+      ]
+    },
+    {
       "company": "Linux Professional Institute Innovation Hub",
       "position": "Intern/Tutor",
-      "website": "https://lpihub.org",
+      "website": "",
       "startDate": "2020",
       "endDate": "2021",
       "summary": "",
@@ -144,76 +141,56 @@
         "Design glasses to be used by the visally impared to aid in reading",
         "Design walking aids"
       ]
-    },
-    {
-      "company": "Works and Maintenance Department, University of Ibadan",
-      "position": "Intern",
-      "website": "",
-      "startDate": "2019",
-      "endDate": "2019",
-      "summary": "Installation and Maintenance of University electrical equipment",
-      "highlights": []
-    }
+    }    
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "https://tryhackme.com/p/NullCell",
-      "position": "TryHackMe",
-      "startDate": "2020",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "",
-      "website": "https://www.hackthebox.eu/home/users/profile/462764",
-      "position": "HackTheBox",
-      "startDate": "2020",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "",
-      "website": "https://online.pwntilldawn.com/Achievements/2087",
-      "position": "PwnTillDawn",
+      "organization": "Google Developer Student Club - University of Ibadan",
+      "website": "",
+      "position": "Cybersecurity Lead",
       "startDate": "2021",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "IEEE Student Branch, University of Ibadan",
-      "website": "https://edu.ieee.org/ng-ui/home/",
-      "position": "Embedded Development Team Lead",
-      "startDate": "2019",
       "endDate": "Present",
-      "summary": "Lead developer for the Embedded Systems Development Team",
+      "summary": "Training students who want to get into the field of Cybersecurity",
       "highlights": [
-        "Design firmware for embedded applications",
-        "Design and build small robots"
+        "Linux Training",
+        "Networking",
+        "Web"
       ]
     },
     {
-      "organization": "H4x",
+      "organization": "IEEE Student Branch - University of Ibadan",
       "website": "",
-      "position": "Founding Member",
-      "startDate": "2021",
-      "endDate": "Present",
-      "summary": "Founding member for the H4x ethical hacking group in the University",
-      "highlights": []
+      "position": "Embedded Development Team Lead",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Lead developer for the Embedded Systems Development Team",
+      "highlights": [
+        "Designed firmware for embedded applications",
+        "Worked on maze solving RC cars"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Hackathon Runner-up",
+      "title": "Cyber Talents Nationals CTF Nigeria - 1st Place",
+      "date": "2021",
+      "awarder": "Cyber Talents",
+      "summary": "Cyber Talents' Annual CTF National for Nigeria to qualify for Africa and Middle-East Challenge"
+    },
+    {
+      "title": "American Business Council Cybersecurity CTF - 2nd Place",
+      "date": "2021",
+      "awarder": "American Business Council",
+      "summary": "A CTF hosted by The American Business Council Nigeria for Cybersecurity Professionals"
+    },
+    {
+      "title": "Hackathon - 2nd Place",
       "date": "2019",
       "awarder": "Campus Labs and US Embassy",
       "summary": "A disability hackathon to find solutions to help people with various kinds of disabilities"
     },
     {
-      "title": "Hult Prize UI",
+      "title": "Hult Prize UI - 1st Place",
       "date": "2019",
       "awarder": "Hult Prize Foundation UI Branch",
       "summary": "My team won first place for providing a business that would create jobs and help the visually impared"
