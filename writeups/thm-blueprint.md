@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/blueprint/logo.jpeg
 title: Blueprint - TryHackMe
 permalink: writeups/blueprint

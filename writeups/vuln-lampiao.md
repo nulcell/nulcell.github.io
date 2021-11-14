@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/vuln/lampiao/logo.png
 title: Lampiao - Vulnhub
 permalink: writeups/lampiao

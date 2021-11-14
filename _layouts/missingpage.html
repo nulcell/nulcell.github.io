@@ -7,18 +7,18 @@ layout: default
 <div style="padding-top: 20px" class="ui container ">
   <p>I'm sorry, that URL could not be found. Perhaps you were looking for one of the following:</p>
 
-  <h3>Essays</h3>
+  <h3>Blog</h3>
   <ul>
-    {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
-    {% for page in essay_pages %}
+    {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
+    {% for page in blog_pages %}
       <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
   </ul>
 
-  <h3>Projects</h3>
+  <h3>Writeups</h3>
   <ul>
-    {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
-    {% for page in project_pages %}
+    {% assign writeup_pages = site.pages | where: "type", "writeup" | sort: "title" %}
+    {% for page in writeup_pages %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
   </ul>

@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/vuln/mr-robot/logo.jpeg
 title: Mr Robot - Vulnhub/TryHackMe
 permalink: writeups/mr-robot

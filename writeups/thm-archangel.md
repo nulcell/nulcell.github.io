@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/archangel/logo.jpeg
 title: Archangel - TryHackMe
 permalink: writeups/archangel

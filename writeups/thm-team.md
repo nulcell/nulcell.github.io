@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/team/logo.png
 title: Team - TryHackMe
 permalink: writeups/team

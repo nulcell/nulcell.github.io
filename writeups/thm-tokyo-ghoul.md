@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/tokyo-ghoul/logo.jpeg
 title: Tokyo Ghoul - TryHackMe
 permalink: writeups/tokyo-ghoul

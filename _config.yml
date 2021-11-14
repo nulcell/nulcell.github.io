@@ -1,25 +1,25 @@
 # Site settings
 
-# REQUIRED CHANGES
-# Edit next line, providing your own name.
 title: Toyin Ayanleye | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
 url: "https://nullcell8822.github.io"
+
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
-bio-page-label: CV
+blog-page-label: Blog
+writeups-page-label: Writeups
+bio-page-label: Bio
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
-theme-home: theme-home-null.html
-theme-projects: theme-projects-builtin-1.html
-theme-essays: theme-essays-builtin-1.html
-theme-bio: theme-bio-builtin-1.html
+theme-home: theme-null-home.html
+theme-blogs: theme-null-blog.html
+theme-writeups: theme-null-writeups.html
+theme-bio: theme-null-bio.html
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
-rouge-theme: igorpro
+rouge-theme: github
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown

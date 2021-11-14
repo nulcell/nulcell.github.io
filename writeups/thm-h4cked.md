@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/h4cked/logo.png
 title: H4cked - TryHackMe
 permalink: writeups/h4cked

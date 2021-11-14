@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: blog
+type: blog
 image: images/blog/hello/logo.png
 title: Hello NullCell
 permalink: blog/hello

@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/anthem/logo.jpg
 title: Anthem - TryHackMe
 permalink: writeups/anthem

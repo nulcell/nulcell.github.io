@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/inferno/logo.png
 title: Inferno - TryHackMe
 permalink: writeups/inferno

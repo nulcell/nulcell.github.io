@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: writeup
+type: writeup
 image: images/writeups/thm/overpass-1/logo.png
 title: Overpass 1 - TryHackMe
 permalink: writeups/overpass-1
