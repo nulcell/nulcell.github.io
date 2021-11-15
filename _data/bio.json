@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Toyin Ayanleye",
-    "label": "Cybersecurity Enuthiast",
+    "label": "Security Enthusiast",
     "picture": "../images/profile/profile1.jpg",
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
     "website": "https://nullcell8822.github.io",
-    "summary": "A young professional starting out in the Cybersecurity field working to be a Penetration Tester, skilled in scripting, web application vulnerability assessment, network security, firmware development and embedded application development. Currently working on Bug Bounties and open source web application code review and testing as well as developing an automation script for carrying out reconnaissance, vulnerability discovery and testing that would otherwise be done manually. Continuously learning using platforms such as HackTheBox, TryHackMe, PawnTillDawn and VulnHub. Also preparing for the OSCP Certification Exam.",
+    "summary": "A young professional starting out in the Cybersecurity field, skilled in scripting, web application security, network security, firmware development and embedded application development. Currently working on Bug Bounties and open source web application code review and testing as well as developing an automation script for carrying out reconnaissance, vulnerability discovery and testing that would otherwise be done manually. Continuously learning using various platforms and reading up on latest trends. Check out my <a href='/resume.pdf'>resume</a> ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -45,6 +45,14 @@
     {
       "name": "Embedded Systems",
       "keywords": []
+    },
+    {
+      "name": "Gaming",
+      "keywords": []
+    },
+    {
+      "name": "Technology",
+      "keywords": []
     }
   ],
   "skills": [
@@ -66,7 +74,7 @@
       "name": "Technical Skills",
       "level": "",
       "keywords": [
-        "Web Application Penetration Testing", "Network Vulnerability Testing", "Password Cracking"
+        "Web Application Security", "Network Vulnerability Testing", "Code Review"
       ]
     },
     {
