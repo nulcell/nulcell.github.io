@@ -6,7 +6,7 @@
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
     "website": "https://nullcell8822.github.io",
-    "summary": "A young professional starting out in the Cybersecurity field, skilled in scripting, web application security, network security, firmware development and embedded application development. Currently working on Bug Bounties and open source web application code review and testing as well as developing an automation script for carrying out reconnaissance, vulnerability discovery and testing that would otherwise be done manually. Continuously learning using various platforms and reading up on latest trends. Check out my <a href='/resume.pdf'>resume</a> ",
+    "summary": "I am a young professional skilled in Web Application Security, Android Application Security, Cloud Architecture & Security and Scripting. I am currently working on Web Security Automation (being sponsored by AWS), Bug Bounties, Vulnerability Disclosure Programs and open-source Web Application code review. Constantly learning and improving myself with my RSS Feeds and reading. Check out my <a href='/resume.pdf'>resume</a> ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -43,15 +43,15 @@
       "keywords": []
     },
     {
+      "name": "AWS Solutions",
+      "keywords": []
+    },
+    {
       "name": "Embedded Systems",
       "keywords": []
     },
     {
       "name": "Gaming",
-      "keywords": []
-    },
-    {
-      "name": "Technology",
       "keywords": []
     }
   ],
