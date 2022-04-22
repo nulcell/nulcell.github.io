@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Toyin Ayanleye",
-    "label": "Security Enthusiast",
+    "label": "Cybbersecurity Analyst",
     "picture": "../images/profile/profile1.jpg",
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
     "website": "https://nullcell8822.github.io",
-    "summary": "I am a young professional skilled in Web Application Security, Android Application Security, Cloud Architecture & Security and Scripting. I am currently working on Web Security Automation (being sponsored by AWS), Bug Bounties, Vulnerability Disclosure Programs and open-source Web Application code review. Constantly learning and improving myself with my RSS Feeds and reading. Check out my <a href='/resume.pdf'>resume</a> ",
+    "summary": "Dedicated and passionate Cybersecurity professional with years of experience in various fields in tech, such as embedded systems and deep learning. Also skilled in application security, cloud security and automation using tools and languages, such as python, javascript, bash, AWS, Burp Suite, and many more. I have participated in bug bounty programs, vulnerability disclosure programs, code reviews and, I am always eager to offer my skills as I feel I have something new and fresh I can bring to any team while I also get to learn something new along the way. Check out my <a href='/resume.pdf'>resume</a> ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,8 +32,13 @@
       },
       {
         "network": "instagram",
-        "username": "Toyin Ayanleye",
+        "username": "NullCell8822",
         "url": "http://instagram.com/nullcell8822"
+      },
+      {
+        "network": "facebook",
+        "username":"Toyin Ayanleye",
+        "url": "http://facebook.com/Toyin.Ayan/"
       }
     ]
   },
@@ -43,11 +48,11 @@
       "keywords": []
     },
     {
-      "name": "AWS Solutions",
+      "name": "Application Security",
       "keywords": []
     },
     {
-      "name": "Embedded Systems",
+      "name": "Cloud Security",
       "keywords": []
     },
     {
@@ -60,148 +65,116 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Python", "C", "C++", "Bash", "Yocto"
+        "Python", "JavaScript", "C", "C++", "Bash", "SQL"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Linux", "Windows", "GitHub", "Git", "Wireshark", "Nessus", "VMware", "Metasploit", "Burpsuite", "Docker"
+        "Linux", "Windows", "GitHub", "Git", "Wireshark", "Nessus", "VMware", "Metasploit", "Burp Suite Pro", "Docker", "AWS"
       ]
     },
     {
       "name": "Technical Skills",
       "level": "",
       "keywords": [
-        "Web Application Security", "Network Vulnerability Testing", "Code Review"
+        "Critical Thinking", "DAST", "SAST", "PCI DSS v4", "Vulnerability Remediation", "Office 365", "OWASP Top 10", "SANS Top 20", "Code Review"
       ]
     },
     {
       "name": "Hardware",
       "level": "",
       "keywords": [
-        "Reading Schematics", "Circuit Prototyping", "Referencing HW datasheets", "Raspberry Pi", "Arduino", "STM32"
+        "Raspberry Pi", "STM32 MCU", "Arduino", "Circuit Prototyping"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Ibadan, Ibadan, Oyo, Nigeria",
-      "area": "Electrical & Electronics Engineering (expected 2022)",
-      "studyType": "B.S.",
-      "startDate": "2017-02",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "B.Sc",
+      "startDate": "2017",
       "endDate": "2022",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "International School Olabisi Onabanjo University, Ago-Iwoye, Ogun, Nigeria",
-      "area": "Secondary School",
-      "studyType": "WASSCE",
-      "startDate": "2012-09",
-      "endDate": "2016-07",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "Trinity International College, Ofada, Ogun, Nigeria",
-      "area": "Secondary School",
-      "studyType": "WASSCE",
-      "startDate": "2010-09",
-      "endDate": "2012-07",
       "gpa": "",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "M4xH3dr00m",
-      "position": "Team Member",
+      "company": "Tereta",
+      "position": "Cybersecurity Analyst",
       "website": "",
-      "startDate": "2021",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "M4xH3dr00m is a group of young cybersecurity talents who engage in CTFs, Bug Bounties, Red Teaming and others freelance work.",
+      "summary": "",
       "highlights": [
-        "CTF", "Bug Bounties"
+        "Consulted on penetration tests for clients",
+        "Assisted in PCI DSS v4 compliance for clients",
+        "Performed vulnerability assessments and proposed remediations"
       ]
     },
+    {
+      "company": "Freelance",
+      "position": "Application Security Tester",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Discovered and exploited various critical vulnerabilities in an insurance company",
+        "Chained vulnerabilities to get RCE and took control over other websites running on the server",
+        "Gained access to the database contents via SQLi",
+        "Discovered SSRF which exposed internal systems of a national body"
+      ]
+    } ,
     {
       "company": "Linux Professional Institute Innovation Hub",
       "position": "Intern/Tutor",
-      "website": "",
-      "startDate": "2020",
+      "website": "https://lpihub.org",
+      "startDate": "2021",
       "endDate": "2021",
       "summary": "",
       "highlights": [
-        "Aiding in the development of embedded projects for members and their clients",
-        "Teaching Embedded Systems and learning Cyber Security"
+        "AWS Solutions Architect Training",
+        "Trained students in cybersecurity",
+        "I served as technical support for hosted events"
       ]
-    },
-    {
-      "company": "Vinsighte",
-      "position": "Embedded Software Developer",
-      "website": "",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Development of prototype for reading glasses for the visually impaired",
-      "highlights": [
-        "Design glasses to be used by the visally impared to aid in reading",
-        "Design walking aids"
-      ]
-    }    
+    }   
   ],
   "volunteer": [
+    {
+      "organization": "M4xH3dr00m",
+      "website": "",
+      "position": "Team Member",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "Nigerian Ethical Hacking group",
+      "highlights": []
+    },
     {
       "organization": "Google Developer Student Club - University of Ibadan",
       "website": "",
       "position": "Cybersecurity Lead",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2022",
       "summary": "Training students who want to get into the field of Cybersecurity",
-      "highlights": [
-        "Linux Training",
-        "Networking",
-        "Web"
-      ]
-    },
-    {
-      "organization": "IEEE Student Branch - University of Ibadan",
-      "website": "",
-      "position": "Embedded Development Team Lead",
-      "startDate": "2019",
-      "endDate": "2021",
-      "summary": "Lead developer for the Embedded Systems Development Team",
-      "highlights": [
-        "Designed firmware for embedded applications",
-        "Worked on maze solving RC cars"
-      ]
+      "highlights": []
     }
   ],
   "awards": [
     {
       "title": "Cyber Talents Nationals CTF Nigeria - 1st Place",
       "date": "2021",
-      "awarder": "Cyber Talents",
+      "awarder": "",
       "summary": "Cyber Talents' Annual CTF National for Nigeria to qualify for Africa and Middle-East Challenge"
     },
     {
       "title": "American Business Council Cybersecurity CTF - 2nd Place",
       "date": "2021",
-      "awarder": "American Business Council",
+      "awarder": "",
       "summary": "A CTF hosted by The American Business Council Nigeria for Cybersecurity Professionals"
-    },
-    {
-      "title": "Hackathon - 2nd Place",
-      "date": "2019",
-      "awarder": "Campus Labs and US Embassy",
-      "summary": "A disability hackathon to find solutions to help people with various kinds of disabilities"
-    },
-    {
-      "title": "Hult Prize UI - 1st Place",
-      "date": "2019",
-      "awarder": "Hult Prize Foundation UI Branch",
-      "summary": "My team won first place for providing a business that would create jobs and help the visually impared"
     }
   ],
   "references": [
