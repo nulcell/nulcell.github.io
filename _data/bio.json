@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Oluwatoyin Ayanleye",
-    "label": "Cybersecurity Analyst",
-    "picture": "../images/profile/profile1.jpg",
+    "label": "Security Engineer",
+    "picture": "../images/profile/profile.jpg",
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
-    "website": "https://nullcell8822.github.io",
-    "summary": "Dedicated and passionate Cybersecurity professional with years of experience in various fields in tech, such as embedded systems and deep learning. Also skilled in application security, cloud security and automation using tools and languages, such as python, javascript, bash, AWS, Burp Suite, and many more. I have participated in bug bounty programs, vulnerability disclosure programs, code reviews and, I am always eager to offer my skills as I feel I have something new and fresh I can bring to any team while I also get to learn something new along the way. Check out my <a href='/resume.pdf'>resume</a> ",
+    "website": "https://nulcell.github.io",
+    "summary": "With a background in embedded systems and deep learning, I have a strong foundation in technology and practical experience in cybersecurity. My skills include web application security, cloud security, automation, AWS, Burp Suite Professional, and Python. I am committed to building a career in application security and continuously learning and improving my skills through practical experience, including participation in bug bounties, vulnerability disclosure programs, code reviews, and CTFs. Check out my <a href='/resume.pdf'>resume</a> ",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "NullCell8822",
-        "url": "https://github.com/nullcell8822"
+        "username": "nulcell",
+        "url": "https://github.com/nulcell"
       },
       {
         "network": "linkedin",
@@ -27,17 +27,17 @@
       },
       {
         "network": "twitter",
-        "username": "nullcell_",
-        "url": "https://twitter.com/nullcell_"
+        "username": "nulcell",
+        "url": "https://twitter.com/nulcell"
       },
       {
         "network": "instagram",
-        "username": "nullcell_",
-        "url": "https://instagram.com/nullcell_"
+        "username": "nulcell_",
+        "url": "https://instagram.com/nulcell_"
       },
       {
         "network": "facebook",
-        "username":"Toyin Ayanleye",
+        "username": "Toyin Ayanleye",
         "url": "https://facebook.com/Toyin.Ayan/"
       }
     ]
@@ -45,19 +45,23 @@
   "interests": [
     {
       "name": "Cybersecurity",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Application Security",
-      "keywords": []
+      "keywords": [ ]
     },
     {
       "name": "Cloud Security",
-      "keywords": []
+      "keywords": [ ]
+    },
+    {
+      "name": "Python",
+      "keywords": [ ]
     },
     {
       "name": "Gaming",
-      "keywords": []
+      "keywords": [ ]
     }
   ],
   "skills": [
@@ -98,16 +102,44 @@
       "startDate": "2017",
       "endDate": "2022",
       "gpa": "",
-      "courses": []
+      "courses": [ ]
     }
   ],
   "work": [
+    {
+      "company": "AMMP Technologies B.V.",
+      "position": "Data Pipeline Engineer",
+      "website": "https://ammp.io",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Managed AWS applications and CI/CD pipelines with GitHub workflows and CodePipeline",
+        "Handled development/maintenance of python libraries for our applications as well as external API integrations and data analysis",
+        "Performed frequent log analysis to determine the state of the system as well as potential areas of improvement",
+        "Handled development of cloud services and optimized for compute, memory, cost and security"
+      ]
+    },
+    {
+      "company": "Self Employed",
+      "position": "Bug Bounty Hunter",
+      "website": "https://nulcell.github.io",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Hacker on HackerOne with username nulcell",
+        "Found account takeover by exploiting login page feature to harvest credentials and API keys",
+        "Found leaked API keys in live and archived pages for a VDP, which lead to control of all customer accounts",
+        "Aided recon and exploitation of various bugs with friends"
+      ]
+    },
     {
       "company": "Tereta",
       "position": "Cybersecurity Analyst",
       "website": "",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2022",
       "summary": "",
       "highlights": [
         "Consulted on penetration tests for clients",
@@ -128,7 +160,7 @@
         "Gained access to the database contents via SQLi",
         "Discovered SSRF which exposed internal systems of a national body"
       ]
-    } ,
+    },
     {
       "company": "Linux Professional Institute Innovation Hub",
       "position": "Intern/Tutor",
@@ -141,7 +173,7 @@
         "Trained students in cybersecurity",
         "I served as technical support for hosted events"
       ]
-    }   
+    }
   ],
   "volunteer": [
     {
@@ -151,7 +183,7 @@
       "startDate": "2021",
       "endDate": "",
       "summary": "Nigerian Ethical Hacking group",
-      "highlights": []
+      "highlights": [ ]
     },
     {
       "organization": "Google Developer Student Club - University of Ibadan",
@@ -160,7 +192,7 @@
       "startDate": "2021",
       "endDate": "2022",
       "summary": "Training students who want to get into the field of Cybersecurity",
-      "highlights": []
+      "highlights": [ ]
     }
   ],
   "awards": [
