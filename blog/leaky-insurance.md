@@ -1,15 +1,15 @@
 ---
 layout: blog
 type: blog
-title: My First RCE
-permalink: blog/my-first-rce
+title: Leaky insurance
+permalink: blog/leaky-insurance
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-16
+date: 2023-01-09
 labels:
-  - VPD
   - RCE
   - Password reuse
   - Wordpress
+  - PHP
 ---
 
 Coming soon...

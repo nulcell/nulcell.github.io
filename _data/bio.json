@@ -2,7 +2,7 @@
   "basics": {
     "name": "Oluwatoyin Ayanleye",
     "label": "Security Engineer",
-    "picture": "../images/profile/profile.jpg",
+    "picture": "../images/bio/toyin.jpg",
     "email": "ayanleyetoyin@outlook.com",
     "phone": "+2349020674624",
     "website": "https://nulcell.github.io",
@@ -14,6 +14,7 @@
       "countryCode": "Nigeria",
       "region": ""
     },
+    "page-label": "Home",
     "profiles": [
       {
         "network": "github",
@@ -108,30 +109,31 @@
   "work": [
     {
       "company": "AMMP Technologies B.V.",
-      "position": "Data Pipeline Engineer",
+      "position": "Data Engineer",
       "website": "https://ammp.io",
       "startDate": "2022",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Managed AWS applications and CI/CD pipelines with GitHub workflows and CodePipeline",
-        "Handled development/maintenance of python libraries for our applications as well as external API integrations and data analysis",
-        "Performed frequent log analysis to determine the state of the system as well as potential areas of improvement",
-        "Handled development of cloud services and optimized for compute, memory, cost and security"
+        "Led the management and maintenance of AWS-based data services and CI/CD pipelines using GitHub Actions and CodePipeline",
+        "Developed and maintained a suite of Python libraries for internal applications and led data integrations with external APIs and data analysis tools",
+        "Conducted frequent log analysis to identify system states and potential areas for optimization, resulting in increased efficiency and cost savings",
+        "Implemented security checks into the CI/CD pipelines of core services, specifically our API, resulting in the identification and fixing of major security issues within our applications",
+        "Reduced AWS ECS cost by improving memory management, reducing compute waste, and migrating to ARM64 compute, resulting in a significant reduction in our infrastructure expenses"
       ]
     },
     {
-      "company": "Self Employed",
+      "company": "HackerOne",
       "position": "Bug Bounty Hunter",
       "website": "https://nulcell.github.io",
       "startDate": "2022",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Hacker on HackerOne with username nulcell",
-        "Found account takeover by exploiting login page feature to harvest credentials and API keys",
-        "Found leaked API keys in live and archived pages for a VDP, which lead to control of all customer accounts",
-        "Aided recon and exploitation of various bugs with friends"
+        "Conducted thorough analysis of frontend JavaScript to steal user credentials and API keys through a MITM attack due to a misconfigured login functionality",
+        "Successfully discovered and exploited XXE & SSRF vulnerabilities within a Java application to steal AWS access keys in a compute cluster by testing the API’s handling of non-JSON input data",
+        "Uncovered leaked API keys in live and archived pages, leading to complete control of all customer accounts and resulting in a significant payout through the bug bounty program",
+        "Collaborated with a team of highly skilled bug bounty hunters to test and secure a variety of web applications"
       ]
     },
     {
@@ -142,23 +144,24 @@
       "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Consulted on penetration tests for clients",
-        "Assisted in PCI DSS v4 compliance for clients",
-        "Performed vulnerability assessments and proposed remediations"
+        "Provided expert consultation on penetration tests for a range of clients in various industries",
+        "Assisted with PCI DSS v4 compliance checks for clients, ensuring their payment systems were secure and compliant",
+        "Conducted comprehensive vulnerability assessments and proposed effective remediation strategies to secure clients’ systems and data"
       ]
     },
     {
-      "company": "Freelance",
-      "position": "Application Security Tester",
+      "company": "Security Contractor",
+      "position": "Application Security Engineer",
       "website": "",
       "startDate": "2021",
       "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Discovered and exploited various critical vulnerabilities in an insurance company",
-        "Chained vulnerabilities to get RCE and took control over other websites running on the server",
-        "Gained access to the database contents via SQLi",
-        "Discovered SSRF which exposed internal systems of a national body"
+        "Discovered exposed /.git directories via direct IP address access and successfully dumped source code, leading to the identification of multiple vulnerabilities during analysis",
+        "Exploited leaked credentials to gain code execution through a successful phpMyAdmin SQL injection attack, me to compromise other domains hosted on the server",
+        "Compromised an insurance admin portal containing sensitive client data through the exploitation of misconfigured redirects and IDORs",
+        "Discovered and exploited SQL injection and SSRF vulnerabilities, exposing internal systems and information of a major Nigerian government organization",
+        "Accessed the WordPress Admin page through the reuse of passwords and weak credentials, then gaining code execution by uploading a malicious WordPress plugin, leading to the identification of multiple vulnerabilities when analyzing the source code on the server"
       ]
     },
     {

@@ -15,13 +15,5 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h3>Writeups</h3>
-  <ul>
-    {% assign writeup_pages = site.pages | where: "type", "writeup" | sort: "title" %}
-    {% for page in writeup_pages %}
-    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
-  </ul>
-
 </div>
 

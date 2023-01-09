@@ -1,21 +1,16 @@
 <!-- Used by all builtin themes. Now we list number of essays and projects. -->
 
 {% assign blog_pages = site.pages | where: "type", "blog"  | where_exp: "page", "page.draft != true" %}
-{% assign writeup_pages = site.pages | where: "type", "writeup" | where_exp: "page", "page.draft != true" %}
 {% assign num_blogs = blog_pages.size %}
-{% assign num_writeups = writeup_pages.size %}
 
 <div class="nonprintable">
   <nav class="ui stackable menu">
     <a href="{{ site.baseurl}}/" class="brand item">
-      <img class="ui avatar image" src="{{ site.data.bio.basics.picture }}"><span>{{ site.data.bio.basics.name }}</span>
+      <img class="ui avatar image" src="{{ site.data.bio.basics.picture }}"><span>{{ site.data.bio.basics.page-label }}</span>
     </a>
+    <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
     {% if num_blogs > 0 %}
     <a href="{{ site.baseurl }}/blog" class=" {% if include.active == "blogs" %} active {% endif %} item">{{ site.blog-page-label }}</a>
     {% endif %}
-    {% if num_writeups > 0 %}
-    <a href="{{ site.baseurl }}/writeups" class=" {% if include.active == "writeups" %} active {% endif %}item">{{ site.writeups-page-label }}</a>
-    {% endif %}
-    <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
   </nav>
 </div>

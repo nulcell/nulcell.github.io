@@ -8,15 +8,13 @@ baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
-blog-page-label: Blog
-writeups-page-label: Writeups
 bio-page-label: Bio
+blog-page-label: Blog
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-home: theme-null-home.html
-theme-blogs: theme-null-blog.html
-theme-writeups: theme-null-writeups.html
 theme-bio: theme-null-bio.html
+theme-blogs: theme-null-blog.html
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
 rouge-theme: github
